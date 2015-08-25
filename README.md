@@ -1,6 +1,4 @@
-# loja
-
-Arquivos do tema filho storefront
+# Arquivos do tema filho StoreFront
 
 Coloque os arquivos em uma pasta e essa pasta deve estar em theme
 
