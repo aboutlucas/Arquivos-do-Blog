@@ -1,4 +1,4 @@
-# Arquivos de Lógica da Programação
+# Lógica da Programação
 
 * [Introdução a Lógica PDF](#/)
 * [Visualg](#/)
