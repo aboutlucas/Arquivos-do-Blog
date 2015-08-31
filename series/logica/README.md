@@ -1,5 +1,5 @@
 # Arquivos de Lógica da Programação
 
-* Visualg
-
-* PDFS
+* [Introdução a Lógica PDF](/)
+* [Visualg](/)
+* [Exercicios](/)
